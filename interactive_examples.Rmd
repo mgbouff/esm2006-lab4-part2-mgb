@@ -42,10 +42,18 @@ iris_graph <- ggplot(data = iris, aes(x = Petal.Width, y = Petal.Length)) +
 
 # iris_graph
 # Comment show graph out so it doesn't show up in html
-# If you want to comment out an entire code chunk add eval = FALSE to squiggly bracket heading of code chunk
+# If you want to comment out an entire code chunk add eval = FALSE to squiggly bracket heading of code chunk 
 
 ggplotly(iris_graph)
 
+# Use cntrl. a + space to stage all files in Git tab
+
+```
+
+### Make an interactive table with DT
+```{r}
+
+datatable(msleep)
 
 ```
 
