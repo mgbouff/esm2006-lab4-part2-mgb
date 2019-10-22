@@ -1,1 +1,9 @@
-# esm2006-lab4-part2-mgb
+# My awesome ReadMe!
+
+- Some
+- Bullet
+- Points
+
+And other **useful information**
+
+*YAY*
